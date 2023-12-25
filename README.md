@@ -19,7 +19,7 @@ In your Terminal
 To remove the old Version:
 ``` shell script
 cd ~
-rm -rf ToxicBomber
+rm -rf hackboot
 ```
 To Install Tool Newly:
 
@@ -29,8 +29,8 @@ apt upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
-git clone https://github.com/Toxic-Noob/ToxicBomber
-cd ToxicBomber
+git clone https://github.com/tanviralammugdha/hackboot
+cd hackboot
 python Tbomb.py
 ```
 
@@ -41,7 +41,7 @@ python Tbomb.py
 
 ## Contact :
 For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="mailto: ToxicNoob.Sl4d3.Official@gmail.com">Email</a>
+<li> Via <a href="mailto: tanviralammugdha@gmail.com">Email</a>
 
 
 # Screenshots:
